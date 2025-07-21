@@ -1,3 +1,5 @@
+//the below code doesnt work at 1920 x 1080 p due to timing constraints involved in convolution 
+//future plans can be using ddr4 ram and ps block and/or lower resolution to 480p
 `timescale 1ns / 1ps
 
 // Top-level Sobel filter AXI-Stream module for 1920x1080p@60fps
