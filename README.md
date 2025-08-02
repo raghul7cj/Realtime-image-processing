@@ -12,3 +12,4 @@ This project demonstrates **real-time image processing** on the **PYNQ-Z2** boar
 - ✅ Integrated into PYNQ video pipeline  
 
 ## 
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/775b9140-dfc3-4059-ab1e-8935e5f39c39" />
